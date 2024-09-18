@@ -1,0 +1,7 @@
+.info-panels {
+    display: flex;
+    justify-content: space-around;
+    background-color: #75787B;
+    padding: 10px;
+    color: white;
+}
