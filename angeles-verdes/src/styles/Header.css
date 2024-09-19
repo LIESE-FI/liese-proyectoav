@@ -1,0 +1,30 @@
+.header {
+    background-color: #007854;
+    padding: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.icon-group {
+    position: absolute;
+    /* Allows it to stay on the left */
+    left: 10px;
+    /* Or adjust as needed */
+    display: flex;
+    gap: 10px;
+    /* Space between the icons */
+}
+
+p {
+    margin: 0;
+    /* Remove default margin */
+    font-size: 2.5em;
+    color: white;
+    font-weight: bold;
+}
+
+img {
+    height: 75px;
+}

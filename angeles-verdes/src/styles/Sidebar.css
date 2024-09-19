@@ -1,0 +1,16 @@
+
+.sidebar {
+    background-color: #EEEFEF;
+    width: 250px;
+    height: 100%;
+    padding: 10px;
+}
+button {
+    background-color: #007854;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
